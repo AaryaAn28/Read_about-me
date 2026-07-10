@@ -18,6 +18,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=BDBDBD&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=Building+with+Quantum+Machine+Learning;Training+Neural+Networks+on+Medical+Imaging;Exploring+Computer+Vision+%2B+Deep+Learning;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 </p>
 
+
 <p align="center">
 <img src="https://img.shields.io/badge/Open%20to%20Work-Available-D4AF37?style=for-the-badge&labelColor=000000&logo=briefcase&logoColor=FFD700" alt="Open to Work" height="30"/>
 <img src="https://komarev.com/ghpvc/?username=AaryaAn28&label=Profile%20Views&color=D4AF37&style=for-the-badge&labelColor=000000" alt="Profile Views" height="30"/>
@@ -111,9 +112,6 @@
 
 </div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AaryaAn28&repo=Food-Calorie-Estimator&bg_color=0B0B0B&title_color=FFD700&text_color=EAEAEA&icon_color=D4AF37&border_color=D4AF37" alt="Food Calorie Estimator"/>
-</p>
 
 <p align="center">
 🔗 <b>Live:</b> Coming Soon &nbsp;&nbsp;|&nbsp;&nbsp; 💻 <b>Code:</b> <a href="https://github.com/AaryaAn28/Food-Calorie-Estimator">Repository</a>
