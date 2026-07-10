@@ -85,9 +85,6 @@
 
 </div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AaryaAn28&repo=Alzheimer's-QCNN&bg_color=0B0B0B&title_color=FFD700&text_color=EAEAEA&icon_color=D4AF37&border_color=D4AF37" alt="Alzheimer's QCNN"/>
-</p>
 
 <p align="center">
 🔗 <b>Live:</b> Coming Soon &nbsp;&nbsp;|&nbsp;&nbsp; 💻 <b>Code:</b> <a href="https://github.com/AaryaAn28/Alzheimer's-QCNN">Repository</a>
